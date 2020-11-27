@@ -1,10 +1,12 @@
-# Cadastro-de-Alunos
-Você pode cadastrar um(a) aluno(a)
+# Cadastro de Alunos
+
 
 *Conhecimentos usados*
 - Struct
 - Array
 - Função
+- Estrutura de repetição
+- Estrutura de condicionais
 
 # Requisitos
 - Criar uma função para cadastrar alunos
